@@ -1,0 +1,5 @@
+curl 
+https://volara.xyz/install.sh | sh
+
+volara 
+mine start
